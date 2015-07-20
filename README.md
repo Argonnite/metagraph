@@ -1,3 +1,3 @@
 # metagraph
 
-Dust for your Metaverse life.
+Dust for building your Metaverse life.
